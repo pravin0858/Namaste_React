@@ -1,4 +1,4 @@
- [
+ const reslist= [
   {
     "info": {
       "id": "33723",
@@ -2010,3 +2010,5 @@
     }
   }
 ]
+
+export default reslist;
